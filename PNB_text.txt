@@ -1,1 +1,2 @@
 Normalement ce fichier n'est visible que sur la branche PremiereNouvelleBranche
+Du moins c'était vrai jusqu'à ce qu'on les merge
